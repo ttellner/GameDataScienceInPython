@@ -1,0 +1,4 @@
+Player, Level, Location
+Player1, 25, BogTown
+Player2, 10, Mt Herron
+Player3, 18, Citadel
